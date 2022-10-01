@@ -1,0 +1,16 @@
+{
+  "title": {
+    "en": "I am Artur. Website development",
+    "ru": "Я { Артур }. Разработка сайтов"
+  },
+  "meta_description": {
+    "en": "I am { Artur }. Website development. Online store. Online shop. Online commerce",
+    "ru": "Я { Артур }. Разработка сайтов. Интернет сайт. Интернет магазин"
+  },
+  "greeting": { "en": "Hello World!", "ru": "Привет Мир!" },
+  "name": { "en": "I am { Arthur }", "ru": "Я { Артур }" },
+  "offer": {
+    "en": "I will make a website for you.",
+    "ru": "Я сделаю вам сайт."
+  }
+}

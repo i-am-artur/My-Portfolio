@@ -1,0 +1,161 @@
+{
+  "title": {
+    "en": "My skills. NexJS, React, Vue, NodeJS",
+    "ru": "Мои навыки. NexJS, React, Vue, NodeJS"
+  },
+  "meta_description": {
+    "en": "My skills. NexJS. React. Vue. NodeJS. Online store. Online shop. Online commerce",
+    "ru": "Мои навыки. NexJS. React. Vue. NodeJS. Разработка сайтов. Интернет сайт. Интернет магазин"
+  },
+  "page_title": { "en": "My skills", "ru": "Мои навыки" },
+  "introduction": {
+    "training": {
+      "en": "I completed a training program at",
+      "ru": "Я прошел обучающую программу в"
+    },
+    "epam": {
+      "text": "<EPAM>",
+      "link": {
+        "en": "https://en.wikipedia.org/wiki/EPAM_Systems",
+        "ru": "https://ru.wikipedia.org/wiki/EPAM_Systems"
+      },
+      "description": {
+        "en": ", the largest IT company in Ukraine. And I continue to develop my knowledge non-stop.",
+        "ru": " – крупнейшей IT-компании в Украине. И продолжаю развивать свои знания нон-стоп."
+      }
+    },
+    "abilities": {
+      "intro": {
+        "en": "I can:",
+        "ru": "Могу:"
+      },
+      "list": {
+        "spa": {
+          "en": "develop Single-page Applications (SPA)",
+          "ru": "разрабатывать одностраничные приложения (SPA)"
+        },
+        "responsive": {
+          "en": "develop responsive web pages that adapt to a variety of devices and screen sizes. (Windows, Apple, Android, etc.)",
+          "ru": "разрабатывать веб-страницы, которые адаптируются к различным устройствам и размерам экрана. (Windows, Apple, Android и т. д.)"
+        },
+        "optimization": {
+          "en": "optimize web-pages for better performance",
+          "ru": "оптимизировать веб-страницы для повышения производительности"
+        }
+      }
+    }
+  },
+  "cms": {
+    "introduction": {
+      "en": "To create websites with content management system (CMS) I use:",
+      "ru": "Для создания сайтов с системой управления содержимым (CMS) я использую:"
+    },
+    "list": {
+      "wordpress": {
+        "en": "for the development of websites, landing pages.",
+        "ru": "для разработки сайтов, лендинг-страниц.",
+        "image": "wordpress.jpg",
+        "link": "https://wordpress.org/"
+      },
+      "opencart": {
+        "en": "for online stores development.",
+        "ru": "для разработки интернет-магазинов.",
+        "image": "opencart.png",
+        "link": "https://www.opencart.com/"
+      }
+    }
+  },
+  "development": {
+    "en": "For development of complex IT projects and business automation, I use:",
+    "ru": "Для разработки сложных IT-проектов и автоматизации бизнеса я использую:"
+  },
+  "technologies": {
+    "intro": {
+      "en": "I am proficient in the following technologies",
+      "ru": "Владею следующими технологиями"
+    },
+    "list": {
+      "react": "Next, React, Redux, Thunk, MobX, React Router, StyledComponents",
+      "js": "JavaScript, TypeScript, AJAX, REST API, JQuery",
+      "vue": "Vue, Vuex, Router",
+      "html": "HTML, CSS, Less, SCSS, Bootstrap, BEM, Mustache, Handlebars",
+      "backend": "Node, PHP",
+      "db": "MySQL, MongoDB, mongoose",
+      "build": "Git, Webpack, Gulp",
+      "design": "Photoshop, Figma",
+      "Algorithm": "Common algorithm patterns, OOP, MVC, SOLID, DRY, YAGNI"
+    },
+    "images": [
+      {
+        "isVisible": true,
+        "image": "react.gif",
+        "name": "React"
+      },
+      {
+        "isVisible": true,
+        "image": "vue.gif",
+        "name": "Vue"
+      },
+      {
+        "isVisible": true,
+        "image": "html.gif",
+        "name": "HTML"
+      },
+      {
+        "isVisible": false,
+        "image": "css.gif",
+        "name": "CSS"
+      },
+      {
+        "isVisible": true,
+        "image": "js.gif",
+        "name": "JavaScript"
+      },
+      {
+        "isVisible": true,
+        "image": "typescript.png",
+        "name": "Typescript"
+      },
+      {
+        "isVisible": true,
+        "image": "less.gif",
+        "name": "Less"
+      },
+      {
+        "isVisible": true,
+        "image": "sass.gif",
+        "name": "Sass"
+      },
+      {
+        "isVisible": true,
+        "image": "handlebars.gif",
+        "name": "Handlebars"
+      },
+      {
+        "isVisible": true,
+        "image": "jQuery.gif",
+        "name": "JQuery"
+      },
+      {
+        "isVisible": true,
+        "image": "webpack.gif",
+        "name": "Webpack"
+      },
+      {
+        "isVisible": true,
+        "image": "git.gif",
+        "name": "Git"
+      },
+      {
+        "isVisible": true,
+        "image": "php.gif",
+        "name": "PHP"
+      },
+      {
+        "isVisible": true,
+        "image": "mysql.gif",
+        "name": "MySql"
+      }
+    ]
+  }
+}

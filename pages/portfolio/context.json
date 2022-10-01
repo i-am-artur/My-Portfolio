@@ -1,0 +1,108 @@
+{
+  "title": {
+    "en": "My Portfolio.",
+    "ru": "Мой портфолио."
+  },
+  "meta_description": {
+    "en": "My Portfolio.",
+    "ru": "Мой портфолио."
+  },
+  "page_title": { "en": "Portfolio", "ru": "Портфолио" },
+  "languages": { "en": "Language", "ru": "Язык" },
+  "browsers": { "en": "Browsers", "ru": "Браузер" },
+  "technologies": { "en": "Technologies", "ru": "Технологии" },
+  "portfolioPath": "Portfolio",
+  "projects": [
+    {
+      "id": 1,
+      "title": {
+        "en": "Anionit. Online-shop. Antiseptic manufacturer",
+        "ru": "Anionit. Интернет-магазин. Производитель антисептика"
+      },
+      "languages": { "en": "Polish", "ru": "Польский" },
+      "display": true,
+      "priority": 1,
+      "technologies": "React, Redux, Router, React Animation, HTML, CSS/Styled Components, JS",
+      "thumb": "anionit/anionit.jpg",
+      "link": "Portfolio/anionit"
+    },
+    {
+      "id": 2,
+      "title": {
+        "en": "Currency Converter",
+        "ru": "Конвертер валют"
+      },
+      "languages": { "en": "English", "ru": "Английский" },
+      "display": true,
+      "priority": 2,
+      "technologies": "React, Redux, Router, Thunk, HTML, CSS/Styled Components, JS (Rest API)",
+      "thumb": "currency-converter/CurrencyExchange.jpg",
+      "link": "Portfolio/currency-converter/"
+    },
+    {
+      "id": 3,
+      "title": {
+        "en": "GT Puritas. Development of all power plants at all stages",
+        "ru": "GT Puritas. Разработка проектов электростанций"
+      },
+      "languages": {
+        "en": "English, Russian, Polish",
+        "ru": "Английский, Русский, Польский"
+      },
+      "display": true,
+      "priority": 3,
+      "technologies": "Vue, HTML, Less/CSS, JS",
+      "thumb": "gtpuritas/gtpuritas-700.jpg",
+      "link": "Portfolio/gtpuritas"
+    },
+    {
+      "id": 4,
+      "title": {
+        "en": "Health Care. Pet-project @ EPAM University",
+        "ru": "Здравохранение. Пет-проект @ EPAM University"
+      },
+      "languages": {
+        "en": "English",
+        "ru": "Английский"
+      },
+      "display": true,
+      "priority": 3,
+      "technologies": "HTML, CSS, JS",
+      "thumb": "health-care/healthCare.jpg",
+      "link": "Portfolio/health-care"
+    },
+    {
+      "id": 5,
+      "title": {
+        "en": "Tic Tac Toe Game",
+        "ru": "Игра крестики-нолики"
+      },
+      "languages": {
+        "en": "English",
+        "ru": "Английский"
+      },
+      "display": true,
+      "priority": 3,
+      "technologies": "JS, HTML, CSS",
+      "thumb": "TicTacToe/tictactoe.gif",
+      "link": "Portfolio/TicTacToe/"
+    },
+    {
+      "id": 6,
+      "title": {
+        "en": "Courses. Pet-project @ EPAM",
+        "ru": "Курсы. Пет-проект @ EPAM"
+      },
+      "languages": {
+        "en": "English",
+        "ru": "Английский"
+      },
+      "display": true,
+      "priority": 3,
+      "technologies": "React, Redux, Router, Thunk, JS, HTML, CSS",
+      "thumb": "courses-app/courseApp_thumb.gif",
+      "demo": "courses-app/courseApp.gif",
+      "link": null
+    }
+  ]
+}

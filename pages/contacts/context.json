@@ -1,0 +1,20 @@
+{
+  "title": {
+    "en": "Contacts.",
+    "ru": "Контакты."
+  },
+  "meta_description": {
+    "en": "Contacts. Email. Phone",
+    "ru": "Контакты. Обратная связь."
+  },
+  "page_title": {
+    "en": "Contacts",
+    "ru": "Контакты"
+  },
+  "name": { "en": "Arthur", "ru": "Артур" },
+  "slogan": {
+    "en": "Development of internet solutions",
+    "ru": "Разработка интернет решений"
+  },
+  "email": "adrenalin247@gmail.com"
+}

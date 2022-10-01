@@ -1,0 +1,17 @@
+{
+  "my_portfolio": {
+    "en": "portfolio",
+    "ru": "портфолио",
+    "path": "/portfolio"
+  },
+  "my_skills": {
+    "en": "skills",
+    "ru": "навыки",
+    "path": "/skills"
+  },
+  "contacts": {
+    "en": "Contacts",
+    "ru": "Контакты",
+    "path": "/contacts"
+  }
+}
