@@ -2,7 +2,7 @@
   "my_portfolio": {
     "en": "portfolio",
     "ru": "портфолио",
-    "path": "/portfolio"
+    "path": "/myportfolio"
   },
   "my_skills": {
     "en": "skills",

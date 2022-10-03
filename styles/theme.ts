@@ -18,6 +18,7 @@ export const colors = {
 
 export const gap = {
   original: "8px",
+  medium: "10px",
   general: "16px",
   section: "24px",
 };

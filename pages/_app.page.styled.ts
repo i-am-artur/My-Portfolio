@@ -2,8 +2,8 @@ import styled from "styled-components";
 import { gap, media, width } from "../styles/theme";
 
 export const Main = styled.main`
-  margin-left: ${gap.original};
-  margin-right: ${gap.original};
+  margin-left: ${gap.medium};
+  margin-right: ${gap.medium};
   flex: 1;
   flex-direction: column;
   display: flex;

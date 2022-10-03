@@ -20,10 +20,12 @@ export default function getProject(
     <Project project={project} context={context} t={t} />
   );
 
-  if (project.link) {
+  if (project.link !== null) {
+    const projectBasePath = project.basePath ?? basePath();
+    const projectLink = `${projectBasePath}/${project.link ?? ""}`;
     return (
       <ProjectLink
-        href={`${basePath()}/${project.link}`}
+        href={projectLink}
         rel="noreferrer"
         target="_blank"
       >

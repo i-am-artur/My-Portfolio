@@ -1,5 +1,6 @@
 import { useRouter } from "next/router";
 
 export function basePath() {
-  return useRouter().basePath;
+  const router = useRouter();
+  return router.basePath;
 }

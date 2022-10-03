@@ -10,34 +10,34 @@
   "page_title": { "en": "Portfolio", "ru": "Портфолио" },
   "languages": { "en": "Language", "ru": "Язык" },
   "browsers": { "en": "Browsers", "ru": "Браузер" },
-  "technologies": { "en": "Technologies", "ru": "Технологии" },
+  "technologies": { "en": "Tech stack", "ru": "Технологии" },
   "portfolioPath": "Portfolio",
   "projects": [
     {
       "id": 1,
       "title": {
-        "en": "Anionit. Online-shop. Antiseptic manufacturer",
-        "ru": "Anionit. Интернет-магазин. Производитель антисептика"
+        "en": "Anionit Corp. Sanitizer manufacturer",
+        "ru": "Anionit. Производитель антисептика"
       },
       "languages": { "en": "Polish", "ru": "Польский" },
       "display": true,
       "priority": 1,
-      "technologies": "React, Redux, Router, React Animation, HTML, CSS/Styled Components, JS",
+      "technologies": "React, Redux, React Animation, Immer, HTML, JS, CSS/Styled Components",
       "thumb": "anionit/anionit.jpg",
       "link": "Portfolio/anionit"
     },
     {
       "id": 2,
       "title": {
-        "en": "Currency Converter",
-        "ru": "Конвертер валют"
+        "en": "Currency Converter with Github Authentication.",
+        "ru": "Конвертер валют с Github авторизацией"
       },
-      "languages": { "en": "English", "ru": "Английский" },
+      "languages": { "en": "English, Russian", "ru": "Английский, Русский" },
       "display": true,
       "priority": 2,
-      "technologies": "React, Redux, Router, Thunk, HTML, CSS/Styled Components, JS (Rest API)",
+      "technologies": "Next, React, Redux, Thunk, mustache, Fontawesome, Formik, Yup, next-auth, toastify, HTML, CSS/Styled Components, JS",
       "thumb": "currency-converter/CurrencyExchange.jpg",
-      "link": "Portfolio/currency-converter/"
+      "basePath": "https://currency-exchange-next-7vaa.vercel.app"
     },
     {
       "id": 3,
@@ -83,7 +83,7 @@
       },
       "display": true,
       "priority": 3,
-      "technologies": "JS, HTML, CSS",
+      "technologies": "HTML, CSS, JS, MVC, EventBus",
       "thumb": "TicTacToe/tictactoe.gif",
       "link": "Portfolio/TicTacToe/"
     },

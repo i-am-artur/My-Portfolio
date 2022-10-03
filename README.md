@@ -1,7 +1,9 @@
 # My personal website
 
-Lists my front-end skills.\
+My portfolio, contacts and list of my front-end developing skills.\
 Languages: English, Russian
+
+This website was created with NextJS and 'exported'. (Does not require Node)
 
 ##Tech stack
 
@@ -9,9 +11,9 @@ Languages: English, Russian
 - Mustache
 - react-lazy-load-image-component
 
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
 ## Getting Started
+
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 First, run the development server:
 

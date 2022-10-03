@@ -2,7 +2,6 @@ import styled from "styled-components";
 import { fontSize, gap, radius } from "styles/theme";
 import { LazyLoadImage } from "react-lazy-load-image-component";
 
-
 export const Content = styled.div`
   padding: ${gap.original};
 `;
@@ -21,4 +20,3 @@ export const Image = styled(LazyLoadImage)`
   border-top-right-radius: ${radius.general};
   border-top-left-radius: ${radius.general};
 `;
-

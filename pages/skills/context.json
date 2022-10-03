@@ -26,21 +26,21 @@
     },
     "abilities": {
       "intro": {
-        "en": "I can:",
-        "ru": "Могу:"
+        "en": "I can develop:",
+        "ru": "Могу разрабатывать:"
       },
       "list": {
         "spa": {
-          "en": "develop Single-page Applications (SPA)",
-          "ru": "разрабатывать одностраничные приложения (SPA)"
+          "en": "Single Page Applications (SPA)",
+          "ru": "одностраничные приложения (SPA)"
         },
         "responsive": {
-          "en": "develop responsive web pages that adapt to a variety of devices and screen sizes. (Windows, Apple, Android, etc.)",
-          "ru": "разрабатывать веб-страницы, которые адаптируются к различным устройствам и размерам экрана. (Windows, Apple, Android и т. д.)"
+          "en": "responsive web pages that adapt to a variety of devices and screen sizes. (Windows, Apple, Android, etc.)",
+          "ru": "веб-страницы, которые адаптируются к различным устройствам и размерам экрана. (Windows, Apple, Android и т. д.)"
         },
         "optimization": {
-          "en": "optimize web-pages for better performance",
-          "ru": "оптимизировать веб-страницы для повышения производительности"
+          "en": "optimized web-pages for better performance",
+          "ru": "оптимизированные веб-страницы для повышения производительности"
         }
       }
     }
