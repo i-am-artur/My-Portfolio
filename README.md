@@ -19,11 +19,5 @@ npm install
 yarn install
 ```
 
-```bash
-npm run dev
-# or
-yarn dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Checkout package.json for other scripts
 
