@@ -11,11 +11,13 @@ This website was created with NextJS and 'exported'. (Does not require Node)
 - Mustache
 - react-lazy-load-image-component
 
-## Getting Started
+## To install
 
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
-First, run the development server:
+```bash
+npm install
+# or
+yarn install
+```
 
 ```bash
 npm run dev
